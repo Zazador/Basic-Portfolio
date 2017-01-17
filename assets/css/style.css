@@ -1,0 +1,19 @@
+.name {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+	background: #4aaaa5;
+	padding: 10px 20px 10px 20px;
+	display: inline-block;
+	font-size: 32px;
+	margin: 0 0 0 50px;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: grey;
+}
+
+nav {
+	float: right;
+	padding-top: 20px;
+}
