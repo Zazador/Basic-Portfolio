@@ -8,14 +8,38 @@
 	margin: 0 0 0 50px;
 }
 
+.header {
+	background: white;
+	border-bottom: thin solid #666666;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+
+.about {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	font-size: 32px;
+}
+
 .nav-link {
 	text-decoration: none;
 	color: grey;
 }
 
+.aboutContainer {
+	width: 40%;
+	background: white;
+	margin-top: 20px;
+}
+
 nav {
 	float: right;
-	padding-top: 20px;
+	padding-top: 15px;
+	padding-right: 150px;
+}
+
+body {
+	background: url("../images/cork-wallet.png");
 }
 
 .footer {
