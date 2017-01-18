@@ -31,6 +31,11 @@
 	color: grey;
 }
 
+li {
+	display: inline;
+	margin: 0 5px 0 5px;
+}
+
 .aboutContainer {
 	width: 960px;
 	margin-left: auto;
@@ -57,7 +62,7 @@
 	padding: 20px 20px 20px 20px;
 	width: 270px;
 	float: right;
-	display: inline-block;;
+	display: inline-block;
 
 }
 
@@ -88,9 +93,9 @@
 }
 
 nav {
-	float: right;
-	padding-top: 15px;
 	font-size: 20px;
+	padding-top: 35px;
+	float: right;
 }
 
 body {
