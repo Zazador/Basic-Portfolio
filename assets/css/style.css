@@ -144,10 +144,12 @@ form {
 
 input[type=text] {
 	color: grey;
+	margin-bottom: 15px;
 }
 
 input[type=email] {
 	color: grey;
+	margin-bottom: 15px;
 }
 
 input[type=submit] {
@@ -164,4 +166,5 @@ textarea {
 	resize: both;
 	height: 150px;
 	width: 100%;
+	margin-top: 10px;
 }
